@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+body{
+    	background-image: url("#{resource['GMU_Background.jpg']}");
+	}
+	
+.error { font-weight: bold;
+ color: red;
+}
+	
